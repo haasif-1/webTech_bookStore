@@ -1,0 +1,14 @@
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.AssemblyInfoInputs.cache
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.AssemblyInfo.cs
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.csproj.CoreCompileInputs.cache
+E:\Web_Tech\MyApp_dotnet\Bookstore\bin\Debug\net10.0\Bookstore.exe
+E:\Web_Tech\MyApp_dotnet\Bookstore\bin\Debug\net10.0\Bookstore.deps.json
+E:\Web_Tech\MyApp_dotnet\Bookstore\bin\Debug\net10.0\Bookstore.runtimeconfig.json
+E:\Web_Tech\MyApp_dotnet\Bookstore\bin\Debug\net10.0\Bookstore.dll
+E:\Web_Tech\MyApp_dotnet\Bookstore\bin\Debug\net10.0\Bookstore.pdb
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.dll
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\refint\Bookstore.dll
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.pdb
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\Bookstore.genruntimeconfig.cache
+E:\Web_Tech\MyApp_dotnet\Bookstore\obj\Debug\net10.0\ref\Bookstore.dll

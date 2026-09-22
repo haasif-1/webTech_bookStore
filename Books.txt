@@ -1,0 +1,3 @@
+ali hasnain,abubaker,20,1200
+hello hasian ,hsanina,21,1300
+1,ali,10,300
